@@ -2,3 +2,4 @@ skiearn
 pandas
 numpy
 warnings
+IPython
